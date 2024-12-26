@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="screenBackground">#FFF1D8</color>
+    <color name="titleCatOnClock">#823406</color>
+    <color name="noneColor">#00FFFFFF</color>
+    <color name="orange_button">#F99F3E</color>
+    <color name="gray_color">#7C7C7C</color>
+    <color name="grey">#434343</color>
+</resources>
