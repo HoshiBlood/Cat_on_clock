@@ -41,7 +41,9 @@
 
 [Sequence_Diagram](https://github.com/HoshiBlood/Cat_on_clock/blob/main/diagrams/Sequence_Diagram.svg)
 
-<iframe src="https://1drv.ms/p/c/e018864272399532/IQSBitK_rRTiQJzA3tcrDHgrAeTpewxfQKRznGi18CeWcbs?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">Это внедренный презентация <a target="_blank" href="https://office.com">Microsoft Office</a> на платформе <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+## Презентация проекта
+
+[Вот тут](https://1drv.ms/p/c/e018864272399532/IQSBitK_rRTiQJzA3tcrDHgrAeTpewxfQKRznGi18CeWcbs)
 
 ## Команда разработчиков проекта «Кот на часах»
 **Frontend и backend разработчики: Бойко Влад, Кузнецов Андрей, Ахмедова Насиба, Малинина Ира​**
